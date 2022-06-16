@@ -88,7 +88,9 @@
 				E94B03FA285AC9EA005A981C /* RxTest-ExampleUITests */,
 				E94B03D8285AC9EA005A981C /* Products */,
 			);
+			indentWidth = 2;
 			sourceTree = "<group>";
+			tabWidth = 2;
 		};
 		E94B03D8285AC9EA005A981C /* Products */ = {
 			isa = PBXGroup;
